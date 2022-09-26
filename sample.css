@@ -1,0 +1,98 @@
+.row{
+    margin: 30px;
+    margin-bottom: 0px;
+
+}
+.logo{
+    position: relative;
+    left:2%;
+}
+.page{
+    position: relative;
+
+   right: 1%;
+}
+ .left{
+
+   text-align: left;
+   line-height: 0.8cm;
+}
+.right{
+    display: flex;
+    position: relative;
+    top:20%;
+}
+.right p{
+    font-size: 22px;
+
+}
+.blue{
+    color: rgb(62, 204, 255);
+}
+.large{
+    font-size: 30px;
+}
+.med{
+    font-size: 20px;
+}
+li{
+    list-style-type: none;
+    line-height: 0.8cm;
+}
+li h4{
+    font-weight: 800;
+}
+li a{
+    color: rgb(62, 204, 255);
+}
+.alp{
+    width:37px;
+    color:white;
+  background-color:rgb(62, 204, 255);
+}
+.addemp{
+    color:white;
+    background-color:rgb(62, 204, 255);
+}
+#line{
+    margin-left: 20px;
+ border-bottom: 2px solid rgb(170, 160, 160);
+}
+.listhidden{
+    visibility: hidden;
+}
+.part2{
+    margin: 20px;
+    margin-right: 200px;
+}
+.results_box{
+    height: 400px;
+    border: 3px solid silver;
+    margin: 30px;
+}
+.row2 .searchbtn{
+    width: 40%;
+    height: 35px;
+    position: absolute;
+}
+.row2 #iconsearch{
+    position: relative;
+    top:30%;
+    left: 3%;
+
+}
+.clear{
+    position: relative;
+    left:60%;
+}
+.row2 .filterbtn{
+    position: absolute;
+    width: 40%;
+    height: 35px;
+
+}
+.row2 #icontri{
+    position: relative;
+    left: 35%;
+    top:10px;
+}
